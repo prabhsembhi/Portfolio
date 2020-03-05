@@ -1,0 +1,22 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "responsive portfolio website",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prabhsembhi/Portfolio.git"
+  },
+  "author": "Prabh Sembhi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/prabhsembhi/Portfolio/issues"
+  },
+  "homepage": "https://github.com/prabhsembhi/Portfolio#readme",
+  "dependencies": {
+    "node-sass": "^4.13.1"
+  }
+}
