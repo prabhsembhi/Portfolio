@@ -18,5 +18,6 @@
   "homepage": "https://github.com/prabhsembhi/Portfolio#readme",
   "dependencies": {
     "node-sass": "^4.13.1"
-  }
+  },
+  "devDependencies": {}
 }
